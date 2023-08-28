@@ -1,4 +1,8 @@
 ```
+.npmrc
+
+@saiashish9:registry=https://npm.pkg.github.com
+
 Repo 1:
 npm install --save-dev @babel/core @babel/cli @babel/preset-env 
 npm install -save @babel/polyfill
